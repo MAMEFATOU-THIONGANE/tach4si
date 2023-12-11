@@ -1,0 +1,280 @@
+ header  {
+     display: flex;
+     justify-content: center;
+     padding:   20px;  
+     gap: 15px;
+
+ }
+
+.diva a {
+    font-size:25px ;
+    gap: 15px;
+}
+
+ .section1 {
+     padding: 25%;
+     background-image: url("bacimage.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+
+ .logo {
+     width: 150px;
+     height: 100px;
+     display: flex;
+     border-radius: 15%;
+
+ }
+
+ .div1 {
+     display: flex;
+     justify-content: center;
+ }
+
+ .div2 {
+     text-align: center;
+     color: white;
+ }
+
+ .div2 h4 {
+     font-size: 30px;
+     height: 50px;
+ 
+     background-color: gray;
+     
+ }
+ h4{
+    display: flex;
+    justify-content: center;
+ }
+
+ .div2 p {
+     font-size: 17px;
+
+
+ }
+
+ .section2 {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     justify-content: space-evenly;
+     padding: 7%;
+
+
+ }
+
+ .radius1 img {
+    padding: 20px;
+    border: 1px black solid;
+    border-radius: 100%;
+    position: relative;
+    left: 80px;
+ }
+
+ .photo1 img {
+     border: 1.5px black solid;
+     border-radius: 50%;
+
+
+ }
+
+ .section3 {
+     padding: 5%;
+     background: rgba(128, 128, 128, 0.692);
+ }
+
+ .section3 h5 {
+     text-align: center;
+     font-size: 30px;
+     font-weight: bold;
+ }
+
+ .div-a {
+     display: flex;
+     justify-content: center;
+     gap: 30px;
+ }
+ .section4 {
+    width: 100%;
+ }
+
+ .avatar img {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .section4 img {
+width: 100%;
+ }
+ .avatar { 
+    display: flex;
+    justify-content: center;
+    width: 100%;
+     
+}
+.avas img {
+    width: 438px;
+}
+
+ .avatar1  {
+   
+    display: flex;
+    justify-content: center;
+
+   
+ }
+ .avatar2{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.section6 {
+    width: 100%;
+}
+.avatarr {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.pmd1 {
+    width: 400px;
+}
+
+ .ter {
+     text-align: center;
+ }
+
+ .ter h4 {
+     font-size: 27px;
+ }
+
+ .section6 {
+     font-size: 22px;
+
+ }
+
+ .pmd {
+     text-align: center;
+     color: white;
+ }
+
+
+
+ .pmd1 img{
+     width: 450px;
+     
+ }
+
+
+.jane {
+     text-align: center;
+     background: white;
+     height: 50px;
+     padding: 10PX;
+     gap: 15px;
+ }
+
+
+ .section6 {
+     padding: 5%;
+     background-color: rgba(0, 128, 0, 0.185);
+     width: 100%;
+ }
+
+ .section7 {
+     text-align: center;
+     padding: 10%;
+
+ }
+
+ .logo2 img {
+     width: 100px;
+     height: 50px;
+ }
+
+ footer {
+     background-color: gray;
+     padding: 5%;
+ }
+
+
+ h5 {
+     font-size: 18px;
+     text-align: center;
+ }
+
+ .texte {
+     font-weight: bold;
+     font-size: 20px;
+     padding: 20px;
+ }
+
+ .lestext {
+     display: flex;
+     justify-content: center;
+     justify-content: space-evenly;
+ }
+
+ h6 {
+     font-size: 18px;
+     text-align: center;
+ }
+
+ .copy {
+     text-align: center;
+     padding: 5%;
+ }
+
+ progress::-webkit-progress-bar{
+    background-color:grey;
+    border-radius: 20px;
+}
+::-webkit-progress-value{
+    background-color: #A5C0AD;
+    border-radius: 20px;
+}
+
+.pro {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.pro1 {
+        display: flex;
+        flex-direction: column;
+}
+
+.pro2{
+    display: flex;
+    flex-direction: column;
+}
+
+.avancer {
+    width: 400px;
+    height: 50px;
+}
+
+span {
+    position: relative;
+    left: 250px;
+}
+.section5  {
+   padding: 14px;
+
+}
+
+.section5 h4  {
+    font-size: 40px;
+}
+.section5 p {
+    font-size: 18px;
+}
+.ava1 img{
+    width: 422px;
+}
